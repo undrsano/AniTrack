@@ -26,7 +26,7 @@
 ## Запуск
 
 ```bash
-git clone https://github.com/undrsano/anime_tracker.git
+git clone https://github.com/undrsano/AniTrack.git
 cd anime_tracker
 npm install
 npm run dev
